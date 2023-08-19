@@ -1,0 +1,11 @@
+C:\Users\marth\source\repos\practica2POE\bin\Debug\practica2POE.exe.config
+C:\Users\marth\source\repos\practica2POE\bin\Debug\practica2POE.exe
+C:\Users\marth\source\repos\practica2POE\bin\Debug\practica2POE.pdb
+C:\Users\marth\source\repos\practica2POE\obj\Debug\practica2POE.csproj.AssemblyReference.cache
+C:\Users\marth\source\repos\practica2POE\obj\Debug\practica2POE.csproj.SuggestedBindingRedirects.cache
+C:\Users\marth\source\repos\practica2POE\obj\Debug\practica2POE.Form1.resources
+C:\Users\marth\source\repos\practica2POE\obj\Debug\practica2POE.Properties.Resources.resources
+C:\Users\marth\source\repos\practica2POE\obj\Debug\practica2POE.csproj.GenerateResource.cache
+C:\Users\marth\source\repos\practica2POE\obj\Debug\practica2POE.csproj.CoreCompileInputs.cache
+C:\Users\marth\source\repos\practica2POE\obj\Debug\practica2POE.exe
+C:\Users\marth\source\repos\practica2POE\obj\Debug\practica2POE.pdb
